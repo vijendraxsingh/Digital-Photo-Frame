@@ -76,7 +76,6 @@
 1. Open `FrameFlow Digital Photo Frame.xcodeproj` in Xcode.
 2. Select the `FrameFlow Digital Photo Frame` scheme and a supported iPad or Mac destination.
 3. Build and run the app.
-5. Build and run on iPad or Mac.
 
 On iPad, **Automatic Sleep** is off by default. Enable it in Settings to allow FrameFlow to request camera access when the slideshow starts, then choose the standby delay. Camera images are processed on-device and are not saved or sent anywhere. While presence detection is active, the iPad stays awake so it can resume when someone returns.
 
