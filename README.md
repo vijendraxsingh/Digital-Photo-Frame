@@ -80,4 +80,7 @@
 On iPad, **Automatic Sleep** is off by default. Enable it in Settings to allow FrameFlow to request camera access when the slideshow starts, then choose the standby delay. Camera images are processed on-device and are not saved or sent anywhere. While presence detection is active, the iPad stays awake so it can resume when someone returns.
 
 The in-app **Documentation** option in Settings describes the features, privacy behavior, and supported operating-system versions.
-"
+
+## License
+
+This project is distributed under the [FrameFlow Non-Commercial License](LICENSE). Non-commercial use is permitted under its terms. Commercial use requires a separate written agreement with the copyright holder that authorizes the use and establishes revenue-sharing terms. This is a source-available license, not an OSI-approved open-source license.
